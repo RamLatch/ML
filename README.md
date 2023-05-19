@@ -2,7 +2,7 @@
 
 ## Comment Keywords for colaboration
 
-- \# FA: missing answer some one else do that please
+- \# Missing: missing answer some one else do that please
 - \# Bug: There is a bug I can't fix or dont have time to fix it right now. It happens when >short desctiption<
 - \# Frage: I have a question about that / I don't quite understand >x<
 - \# Kontrolle: I think I have it but I'm not quite sure about it.  
@@ -11,5 +11,5 @@
 
 ## Tipp
 
-in VSCode you can use regex in search. use "(Kontrolle|FA|Bug|Frage|Verbessern|I cheated)" to find all instances of our Comments.
+in VSCode you can use regex in search. use "(Kontrolle|Missing|Bug|Frage|Verbessern|I cheated)" to find all instances of our Comments.
 Also write who commented (>name<) after comment.
