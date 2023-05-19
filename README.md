@@ -12,3 +12,4 @@
 ## Tipp
 
 in VSCode you can use regex in search. use "(Kontrolle|FA|Bug|Frage|Verbessern|I cheated)" to find all instances of our Comments.
+Also write who commented (>name<) after comment.
