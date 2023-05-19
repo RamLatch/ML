@@ -8,3 +8,7 @@
 - \# Kontrolle: I think I have it but I'm not quite sure about it.  
 - \# Verbessern: This works but there are way better solutions.
 - \# I cheated and used >x<: I used tool x to do this ... we should redo it or work on it.
+
+## Tipp
+
+in VSCode you can use regex in search. use "(Kontrolle|FA|Bug|Frage|Verbessern|I cheated)" to find all instances of our Comments.
